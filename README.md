@@ -1,6 +1,5 @@
 
 # Vehicle Rental App
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/AbdulAjeejunnisa/vehicle_rental_app.git)
 
 A comprehensive Vehicle Rental Management System built with a Streamlit frontend and a SQLite backend. This application provides a user-friendly web interface for managing vehicles, customers, rentals, payments, and maintenance records. It is designed to be cross-platform and requires no external database server, making it easy to run on Windows, macOS, or Linux.
 
